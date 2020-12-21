@@ -1,0 +1,2 @@
+E:\vs\12.3rec\Debug\12.3rec.exe
+E:\vs\12.3rec\Debug\12.3rec.pdb
